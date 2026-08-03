@@ -1,23 +1,30 @@
 class Solution:
     def stoneGameIII(self, stoneValue: List[int]) -> str:
         n = len(stoneValue)
-        
-        dp = [0] * 4
+        NEG_INF = float('-inf')
+        d0 = d1 = d2 = 0
+        v = stoneValue  
         
         for i in range(n - 1, -1, -1):
-            best = float('-inf')
-            total = 0
-            for k in range(1, 4):
-                if i + k - 1 >= n:
-                    break
-                total += stoneValue[i + k - 1]
-                best = max(best, total - dp[(i + k) % 4])
-            dp[i % 4] = best
+            total = v[i]
+            best = total - d0
+            
+            if i + 1 < n:
+                total += v[i + 1]
+                diff = total - d1
+                if diff > best:
+                    best = diff
+            
+            if i + 2 < n:
+                total += v[i + 2]
+                diff = total - d2
+                if diff > best:
+                    best = diff
+            
+            d0, d1, d2 = best, d0, d1
         
-        result = dp[0]
-        if result > 0:
+        if d0 > 0:
             return "Alice"
-        elif result < 0:
+        elif d0 < 0:
             return "Bob"
-        else:
-            return "Tie"
+        return "Tie"
