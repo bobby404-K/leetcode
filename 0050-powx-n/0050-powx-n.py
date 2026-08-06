@@ -3,14 +3,11 @@ class Solution:
         if n < 0:
             x = 1 / x
             n = -n
-        
         result = 1.0
-        product = x
-        
-        while n > 0:
-            if n % 2 == 1:
-                result *= product
-            product *= product
-            n //= 2
+        while n:
+            if n & 1:
+                result *= x
+            x *= x
+            n >>= 1
         
         return result
