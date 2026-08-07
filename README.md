@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/bobby-rein19/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bobby-rein19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/bobby-rein19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bobby-rein19/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/bobby-rein19/leetcode/tree/master/3731-find-missing-elements) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bobby-rein19/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/bobby-rein19/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -213,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/bobby404-K/leetcode/tree/master/0197-rising-temperature) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
