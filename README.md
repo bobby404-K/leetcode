@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bobby-rein19/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/bobby-rein19/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/bobby404-K/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/bobby-rein19/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/bobby404-K/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## Stack
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bobby-rein19/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/bobby404-K/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/bobby404-K/leetcode/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/bobby-rein19/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bobby-rein19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
