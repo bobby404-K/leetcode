@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bobby-rein19/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bobby-rein19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
