@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bobby-rein19/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bobby404-K/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/bobby-rein19/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bobby404-K/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bobby-rein19/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bobby-rein19/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bobby-rein19/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/bobby404-K/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bobby-rein19/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bobby-rein19/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/bobby-rein19/leetcode/tree/master/0058-length-of-last-word) |
