@@ -3,6 +3,11 @@ class Solution:
         dp = [False] * (n + 1)
         
         for i in range(1, n + 1):
-            dp[i] = any(not dp[i - j * j] for j in range(1, int(i**0.5) + 1))
+            j = 1
+            while j * j <= i:
+                if not dp[i - j * j]:
+                    dp[i] = True
+                    break
+                j += 1
         
         return dp[n]
