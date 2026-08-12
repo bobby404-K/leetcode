@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bobby-rein19/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/bobby404-K/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bobby404-K/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bobby-rein19/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
