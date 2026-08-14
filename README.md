@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bobby404-K/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bobby-rein19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bobby404-K/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bobby404-K/leetcode/tree/master/0500-keyboard-row) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bobby404-K/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bobby404-K/leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/bobby404-K/leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bobby404-K/leetcode/tree/master/0500-keyboard-row) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bobby404-K/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/bobby404-K/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/bobby404-K/leetcode/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
 | ------- |
