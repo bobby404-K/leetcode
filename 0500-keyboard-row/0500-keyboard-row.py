@@ -1,13 +1,14 @@
 class Solution:
     def findWords(self, words: List[str]) -> List[str]:
-        rows = [set("qwertyuiop"), set("asdfghjkl"), set("zxcvbnm")]
+        row_of = {}
+        for i, row in enumerate(["qwertyuiop", "asdfghjkl", "zxcvbnm"]):
+            for ch in row:
+                row_of[ch] = i
         
         result = []
         for word in words:
-            lower_word = set(word.lower())
-            for row in rows:
-                if lower_word <= row:
-                    result.append(word)
-                    break
+            lw = word.lower()
+            if len(set(row_of[ch] for ch in lw)) == 1:
+                result.append(word)
         
         return result
