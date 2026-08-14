@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) 
 | [0258-add-digits](https://github.com/bobby-rein19/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/bobby404-K/leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/bobby404-K/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bobby404-K/leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bobby-rein19/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/bobby404-K/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bobby404-K/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
