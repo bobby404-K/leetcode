@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bobby-rein19/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bobby404-K/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/bobby404-K/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/bobby404-K/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/bobby404-K/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/bobby404-K/leetcode/tree/master/0202-happy-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/bobby404-K/leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/bobby404-K/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/bobby-rein19/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/bobby404-K/leetcode/tree/master/0342-power-of-four) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bobby404-K/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/bobby404-K/leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
