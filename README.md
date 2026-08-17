@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bobby404-K/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bobby404-K/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bobby-rein19/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/bobby404-K/leetcode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
@@ -187,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bobby404-K/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/bobby404-K/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/bobby404-K/leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bobby404-K/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bobby404-K/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Enumeration
 |  |
 | ------- |
