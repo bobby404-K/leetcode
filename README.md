@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/bobby404-K/leetcode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bobby404-K/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/bobby404-K/leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/bobby404-K/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/bobby404-K/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bobby404-K/leetcode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Quicksort
 |  |
 | ------- |
