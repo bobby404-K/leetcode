@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/bobby-rein19/leetcode/tree/master/1470-shuffle-the-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/bobby404-K/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bobby-rein19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
 ## Linked List
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
 |  |
@@ -312,17 +316,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/bobby404-K/leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/bobby404-K/leetcode/tree/master/0292-nim-game) |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
 ## Bracket Sequences
