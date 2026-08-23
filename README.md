@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bobby404-K/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bobby404-K/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3731-find-missing-elements](https://github.com/bobby-rein19/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/bobby404-K/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bobby-rein19/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bobby-rein19/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/bobby404-K/leetcode/tree/master/1510-stone-game-iv) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Linked List
 |  |
 | ------- |
@@ -392,10 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
