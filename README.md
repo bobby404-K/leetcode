@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/bobby404-K/leetcode/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bobby404-K/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0796-rotate-string](https://github.com/bobby404-K/leetcode/tree/master/0796-rotate-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
@@ -480,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/bobby404-K/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
