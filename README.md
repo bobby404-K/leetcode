@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/bobby404-K/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
+| [0938-range-sum-of-bst](https://github.com/bobby404-K/leetcode/tree/master/0938-range-sum-of-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bobby404-K/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0938-range-sum-of-bst](https://github.com/bobby404-K/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/bobby404-K/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/bobby-rein19/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bobby404-K/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0938-range-sum-of-bst](https://github.com/bobby404-K/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/bobby404-K/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Database
 |  |
 | ------- |
