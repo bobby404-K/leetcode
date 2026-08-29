@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bobby404-K/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/bobby-rein19/leetcode/tree/master/1406-stone-game-iii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bobby404-K/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/bobby-rein19/leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/bobby404-K/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/bobby404-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/bobby404-K/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/bobby404-K/leetcode/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bobby404-K/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/bobby404-K/leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/bobby404-K/leetcode/tree/master/0832-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/bobby404-K/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/bobby-rein19/leetcode/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
