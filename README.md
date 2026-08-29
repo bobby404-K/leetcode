@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bobby-rein19/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bobby404-K/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bobby404-K/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bobby404-K/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/bobby-rein19/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bobby-rein19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bobby404-K/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/bobby404-K/leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bobby404-K/leetcode/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/bobby404-K/leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 ## Combinatorics
