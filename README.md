@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/bobby404-K/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bobby404-K/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/bobby404-K/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/bobby404-K/leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/bobby404-K/leetcode/tree/master/0832-flipping-an-image) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bobby404-K/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/bobby404-K/leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/bobby404-K/leetcode/tree/master/0496-next-greater-element-i) |
+| [0636-exclusive-time-of-functions](https://github.com/bobby404-K/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0897-increasing-order-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bobby404-K/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
