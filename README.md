@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bobby404-K/leetcode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/bobby404-K/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bobby404-K/leetcode/tree/master/0040-combination-sum-ii) |
+| [0059-spiral-matrix-ii](https://github.com/bobby404-K/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/bobby-rein19/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bobby-rein19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bobby404-K/leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/bobby404-K/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/bobby-rein19/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/bobby-rein19/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bobby404-K/leetcode/tree/master/0412-fizz-buzz) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/bobby404-K/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/bobby404-K/leetcode/tree/master/0130-surrounded-regions) |
 | [0566-reshape-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
