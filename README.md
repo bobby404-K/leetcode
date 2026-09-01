@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/3033-modify-the-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/bobby404-K/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bobby404-K/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bobby-rein19/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bobby-rein19/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bobby404-K/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bobby404-K/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bobby404-K/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bobby-rein19/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/bobby-rein19/leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/bobby404-K/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/bobby404-K/leetcode/tree/master/0832-flipping-an-image) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3033-modify-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/3033-modify-the-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting Sort
 |  |
 | ------- |
