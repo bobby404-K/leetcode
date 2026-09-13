@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bobby404-K/leetcode/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/bobby404-K/leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/bobby404-K/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/bobby-rein19/leetcode/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/bobby404-K/leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/bobby404-K/leetcode/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1572-matrix-diagonal-sum](https://github.com/bobby404-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
