@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/bobby404-K/leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/bobby404-K/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/bobby404-K/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bobby404-K/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bobby404-K/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/bobby404-K/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0897-increasing-order-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1096-brace-expansion-ii](https://github.com/bobby404-K/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/bobby404-K/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bobby-rein19/leetcode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
 | ------- |
