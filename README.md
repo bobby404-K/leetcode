@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/bobby404-K/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/bobby404-K/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/bobby404-K/leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bobby404-K/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/bobby404-K/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/bobby404-K/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bobby404-K/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/bobby404-K/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/bobby404-K/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bobby404-K/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/bobby404-K/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bobby404-K/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bobby404-K/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bobby404-K/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bobby404-K/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bobby404-K/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bobby404-K/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bobby404-K/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bobby404-K/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/bobby404-K/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/bobby404-K/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bobby404-K/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bobby404-K/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/bobby404-K/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
