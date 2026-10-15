@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bobby404-K/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bobby404-K/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bobby404-K/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bobby404-K/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/bobby404-K/leetcode/tree/master/3033-modify-the-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bobby404-K/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bobby404-K/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bobby404-K/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bobby404-K/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bobby404-K/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bobby404-K/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -662,5 +664,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bobby404-K/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/bobby404-K/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bobby404-K/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
