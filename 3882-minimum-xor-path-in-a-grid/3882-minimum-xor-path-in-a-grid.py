@@ -10,14 +10,12 @@ class Solution:
                 if i == 0 and j == 0:
                     continue
 
-                value = grid[i][j]
-
                 if i > 0:
                     for x in dp[i - 1][j]:
-                        dp[i][j].add(x ^ value)
+                        dp[i][j].add(x ^ grid[i][j])
 
                 if j > 0:
                     for x in dp[i][j - 1]:
-                        dp[i][j].add(x ^ value)
+                        dp[i][j].add(x ^ grid[i][j])
 
         return min(dp[m - 1][n - 1])
