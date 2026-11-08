@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1140-stone-game-ii](https://github.com/bobby404-K/leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/bobby404-K/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/bobby-rein19/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bobby404-K/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bobby404-K/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/bobby404-K/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/bobby404-K/leetcode/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/bobby404-K/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bobby404-K/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bobby404-K/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bobby404-K/leetcode/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/bobby404-K/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/bobby404-K/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/bobby404-K/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/bobby404-K/leetcode/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/bobby404-K/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bobby404-K/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/bobby-rein19/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bobby404-K/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/bobby404-K/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bobby404-K/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bobby404-K/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/bobby404-K/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/bobby-rein19/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -707,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/bobby404-K/leetcode/tree/master/0835-image-overlap) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bobby404-K/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/bobby404-K/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/bobby404-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/bobby404-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bobby404-K/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/bobby404-K/leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
