@@ -1,4 +1,3 @@
-from math import gcd, lcm
 
 class Solution:
     def maxLength(self, nums: List[int]) -> int:
@@ -14,8 +13,16 @@ class Solution:
                 x = nums[j]
 
                 prod *= x
-                g = gcd(g, x)
-                l = lcm(l, x)
+
+                a, b = g, x
+                while b:
+                    a, b = b, a % b
+                g = a
+
+                a, b = l, x
+                while b:
+                    a, b = b, a % b
+                l = (l // a) * x
 
                 if prod == g * l:
                     ans = max(ans, j - i + 1)
